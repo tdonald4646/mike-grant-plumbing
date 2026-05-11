@@ -21,7 +21,11 @@ export const Route = createRootRouteWithContext<{
         content: 'width=device-width, initial-scale=1',
       },
       {
-        title: 'App',
+        title: 'Mike Grant Plumbing & Heating | Witney, Oxfordshire',
+      },
+      {
+        name: 'description',
+        content: 'Professional plumbing and heating services in Witney, Oxfordshire. Boiler installation, bathroom refits, central heating, and emergency callouts. Call 07488 316884.',
       },
     ],
     links: [
